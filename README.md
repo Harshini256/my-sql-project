@@ -53,5 +53,6 @@ The main objective of this project is to develop practical SQL skills by creatin
 By completing this project, I gained practical experience in database creation, table relationships, writing SQL queries, creating stored procedures and triggers, and managing transactions using MySQL.
 
 ## Author
-**Trinadharao G.**
+Harshini
+
 
